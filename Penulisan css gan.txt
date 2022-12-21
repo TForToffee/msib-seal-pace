@@ -1,0 +1,12 @@
+<p style="color: maroon;"> MASUKKAN TEKSMU GAN </p>
+
+<head>
+	<style type = text/css>
+		body {background-color: yellow;}
+			p { color: blue;}
+	</style>
+<head>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
